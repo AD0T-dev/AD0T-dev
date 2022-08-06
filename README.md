@@ -8,7 +8,7 @@
 ____
 
 * 14 year old  , from India 🇮🇳
-* Currently learning Python
+* Currently learning Web Development
 * Member of ([`ADS`](https://github.com/AD0T-Services))
 
 You can reach me on discord ([`AD0T.dev#4782`](https://bit.ly/3uMzyhb))
