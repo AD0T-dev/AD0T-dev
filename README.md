@@ -8,7 +8,7 @@
 ____
 
 * 14 year old  , from India 🇮🇳
-* Currently learning Web Development
+* Currently learning Web Designing
 * Member of ([`ADS`](https://github.com/AD0T-Services))
 
 You can reach me on discord ([`AD0T.dev#4782`](https://bit.ly/3uMzyhb))
@@ -19,9 +19,6 @@ ____
 
 **[Auto-Bot](https://github.com/AD0T-Services/Auto-Bot)** :
 An Automation application
-
-**[Power Clipper](https://github.com/K1NGC0D3R/Power-Clipper)** :
-An framing tool for pictures
 ____
 
 
