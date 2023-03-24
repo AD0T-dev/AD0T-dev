@@ -15,12 +15,12 @@ You can reach me on discord ([`AD0T.dev#4782`](https://bit.ly/3uMzyhb))
 
 ____
 
-### Working On
+<!-- ### Working On
 
-**[Auto-Bot](https://github.com/AD0T-Services/Auto-Bot)** :
-An Automation application
+<!-- **[Auto-Bot](https://github.com/AD0T-Services/Auto-Bot)** :
+An Automation application -->
 ____
-
+ -->
 
 Contributions/Stars are appericiated
 
