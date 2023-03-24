@@ -1,6 +1,6 @@
 # Hi there 👋
-
-![](https://img.shields.io/static/v1?label=OS&message=Mac&color=00f2ff&style=for-the-badge&logo=macos)
+<!-- 
+![](https://img.shields.io/static/v1?label=OS&message=Mac&color=00f2ff&style=for-the-badge&logo=macos) -->
 ![](https://img.shields.io/static/v1?label=OS&message=Windows&color=00f2ff&style=for-the-badge&logo=windows)
 [![](https://img.shields.io/static/v1?label=Discord&message=AD0T.dev&color=00f2ff&style=for-the-badge&logo=discord)](https://bit.ly/3uMzyhb)
 ![](https://komarev.com/ghpvc/?username=K1NGC0D3R&style=for-the-badge)
