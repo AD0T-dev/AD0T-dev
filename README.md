@@ -23,4 +23,4 @@ ____
 
 Contributions/Stars are appericiated
 
-![](https://github-readme-stats.vercel.app/api?username=K1NGC0D3R&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=AD0T-dev&show_icons=true&theme=radical)
